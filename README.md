@@ -1,4 +1,4 @@
-# Task for the `React JS Developers`
+# Task for the `React JS`
 
 > Live Link: https://responsive-image-gallery-using-react-js.vercel.app/
 
