@@ -1,6 +1,6 @@
 # Task for the `React JS Developers`
 
-> Live Link: [https://simple-image-gallery-job-task.vercel.app/](https://responsive-image-gallery-using-react-js.vercel.app/)
+> Live Link: https://responsive-image-gallery-using-react-js.vercel.app/
 
 ## Objective:
 
