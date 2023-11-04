@@ -1,6 +1,6 @@
 # Task for the `React JS Developers`
 
-> Live Link: [https://simple-image-gallery-job-task.vercel.app/](https://simple-image-gallery-job-task.vercel.app/)
+> Live Link: [https://simple-image-gallery-job-task.vercel.app/](https://responsive-image-gallery-using-react-js.vercel.app/)
 
 ## Objective:
 
@@ -45,6 +45,4 @@ Provide us with the following:
 - The source code of your React JS project through any version control software (Github, Gitlab, etc)
 - A live URL where we can interact with your image gallery.
 
-## Note:
 
-Feel free to showcase your creativity and React JS skills in the implementation of the image gallery. We look forward to seeing your work!
